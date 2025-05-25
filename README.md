@@ -32,7 +32,8 @@ Bài tập này giả định Công ty muốn thiết lập một hệ thống m
 
 ## Mô hình mạng
 
-![](netdesign-final-3.png)
+![image](https://github.com/user-attachments/assets/d173509e-7acb-49da-a1f6-d60acece36fb)
+
 
 ## Bảng chia subnet và VLAN
 
@@ -74,10 +75,3 @@ Bài tập này giả định Công ty muốn thiết lập một hệ thống m
 
 ...
 
-> **_Note_** : Chi tiết hơn tại [Drive](https://drive.google.com/drive/folders/1SbakLJsVqzZIdV6OYrDTCgL3D8dQYNtU)
-
-## Thành viên
-
-- Thuan Tong-Vo-Anh, [@thu4n](https://github.com/thu4n/)
-- Vu Le-Huynh-Quang, [@r1anl3](https://github.com/r1anl3/)
-- To Nguyen-Dang, [@Nyx](https://github.com/NguyenDangTo)
